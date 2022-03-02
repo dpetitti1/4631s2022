@@ -14,3 +14,5 @@ The rest of the app is self-explanatory
 
 Progress 2/13
 Implemented a scrolling feature within the app
+
+Progress
