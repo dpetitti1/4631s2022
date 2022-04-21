@@ -10,9 +10,5 @@ Once logged in, you should be able to access the all the various lists where you
 
 The rest of the app is self-explanatory
 
--------------------------------------------------------------------------------------
+My app was designed to create an area for roommates to come rogether in order to organize group needs in order to have sufficent living. It allows its users to create lists for shopping and other household items needed. I had trouble creating a chat so I just attached an image there. 
 
-Progress 2/13
-Implemented a scrolling feature within the app
-
-Progress
