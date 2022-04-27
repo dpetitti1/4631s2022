@@ -45,6 +45,7 @@
         android:layout_marginTop="56dp"
         android:text="Events"
         android:textSize="20dp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.113"
         app:layout_constraintStart_toStartOf="parent"
@@ -68,6 +69,7 @@
         android:layout_marginTop="40dp"
         android:text="Chores"
         android:textSize="20dp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.115"
         app:layout_constraintStart_toStartOf="parent"
@@ -80,6 +82,7 @@
         android:layout_marginTop="52dp"
         android:text="Shopping List"
         android:textSize="20dp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.138"
         app:layout_constraintStart_toStartOf="parent"
@@ -130,6 +133,18 @@
         android:layout_marginEnd="36dp"
         android:text="chat"
         android:onClick="startChat"
+        android:textSize="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/fun"
+        android:layout_width="58dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginEnd="312dp"
+        android:onClick="startFun"
+        android:text="fun"
         android:textSize="8dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

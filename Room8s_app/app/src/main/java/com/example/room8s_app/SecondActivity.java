@@ -71,4 +71,9 @@ public class SecondActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void startFun(View view){
+        Intent intent = new Intent(this, Fun.class);
+        startActivity(intent);
+    }
+
 }
